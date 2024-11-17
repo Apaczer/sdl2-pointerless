@@ -1,11 +1,11 @@
 ﻿
 // Define screen dimensions
-#define SCREEN_WIDTH        (800)
-#define SCREEN_HEIGHT       (600)
+#define SCREEN_WIDTH        (320)
+#define SCREEN_HEIGHT       (240)
 
 // Max grid dimension
-#define GRID_MAX_X_CELLS    (10)
-#define GRID_MAX_Y_CELLS    (10)
+#define GRID_MAX_X_CELLS    (5)
+#define GRID_MAX_Y_CELLS    (5)
 
 #define GRID_DEFAULT_MARGIN         (20)
 #define GRID_DEFAULT_COLOR          COLOR_WHITE
